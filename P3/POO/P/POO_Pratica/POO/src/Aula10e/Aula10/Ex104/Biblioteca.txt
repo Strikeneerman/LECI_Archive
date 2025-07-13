@@ -1,0 +1,11 @@
+Aluno: 105589, Adalbert Junior , ECT, null
+			null
+			null
+Livro 100, Amor e Vida, NORMAL
+Aluno: 108955, Adalberto Junior, Quimica, Livro 101, Paix∆o de Cristo, CONDICIONAL
+			null
+			null
+Livro 101, Paix∆o de Cristo, CONDICIONAL
+Livro 102, O Luar, CONDICIONAL
+Livro 103, O Perdao Maior, NORMAL
+.
