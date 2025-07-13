@@ -1,0 +1,46 @@
+Questão 1 - Já aconteceu acharem produtos fora de validade ou não terem produtos ?
+Cliente A- Sim
+Cliente B- Sim
+Cliente C- Sim
+
+Questão 2 - Com que frequencia ?
+Cliente A- Raramente, 1 ou 2 vezes por mês
+Cliente B- Raramente
+Cliente C- Raramente  
+
+Questão 3 - Como é que organizam atualmente ?
+Cliente A- Usamos uma folha para marcar os produtos em falta que depois entregamos
+Quando fazer restock por o antigo mais acessivel para evitar deixar passar a validade
+Cliente B- Escrever num papel e avisar a chefe 
+Cliente C- Escrever numa folha de papel e entregar ao encarregado, normalmente o patrão ou gerente
+
+Questão 4 - Estariam dispostos a obter uma ferramente para ajudar ? 
+Cliente A- Sim
+Cliente B- Sim
+Cliente C- Sim
+
+Questão 5 - Gostariam que essa ferramenta implementa-se features no futuro ? 
+Cliente A- Talvez
+Cliente B- Talvez, depende das features 
+Cliente C- Talvez 
+
+Questão 6 - Que tipo de restaurante é que fazem parte ?
+Cliente A- Restaurante passantes/ Café
+Cliente B- Restaurante passantes/ para trabalhadores/ diarias
+Cliente C- Restaurante passantes/ grupos
+
+Questão 7 - Gostariam de modernizar a maneira como avisam a chefia sobre a disponibilidade de stock ?
+Cliente A - Sim 
+Cliente B - Sim, seria bom se podermos em vez de utilizar papel, ter uma maneira mais avançada 
+Cliente C - Sim 
+
+Questão 8 - Opinião sobre utilizar uma aplicação no telemóvel ou um terminal como meio de notificação do stock ?
+Cliente A - Boa ideia, mas poderia ser problematico forçar os empregados a utilizar a aplicação nos seus telemóveis
+Cliente B - Parece uma boa ideia
+Cliente C - Gosta da ideia de usar um terminal mas a aplicação no telemóvel dependeria de pessoa para pessoa
+
+Questão 9 - Algum problema em especifico que gostariam de resolver ?
+Cliente A - Penso que não
+Cliente B - Se for possível evitar que os fornecedores venham em vão quando não são necessarios
+Cliente C - Em especifico não, mas vejo que maioria dos problemas são das pessoas, por isso alguma automatização não seria má ideia
+
